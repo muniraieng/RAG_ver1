@@ -1,4 +1,4 @@
-# RAG Learning Demo (Python)
+# RAG Pipelines Learning Demo (Python)
 
 This project is a hands-on introduction to **Retrieval-Augmented Generation (RAG)**. RAG lets a language model answer questions using your own documents instead of relying only on its built-in knowledge.
 
