@@ -1,0 +1,9 @@
+when should we use?
+  fine tuning,
+  reg,
+  prompt engineering, 
+
+
+
+Difference b/w Traditional REG and Agentic REG
+
