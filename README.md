@@ -1,6 +1,6 @@
 # RAG Pipelines Learning Demo (Python)
 
-## RAG-v1
+## Contribute by
 A learning project for building an RAG Pipelines by munir.ai.eng@gmail.com
 
 This project is a hands-on introduction to **Retrieval-Augmented Generation (RAG)**. RAG lets a language model answer questions using your own documents instead of relying only on its built-in knowledge.
