@@ -1,0 +1,28 @@
+# LangChain orchestration framework for the end-to-end RAG workflow.
+langchain
+# Shared LangChain document, prompt, and runnable interfaces.
+langchain-core
+# Community integrations: CSV, web, directory loaders and Hugging Face embeddings.
+langchain-community
+# Recursive text chunking before embedding documents for retrieval.
+langchain-text-splitters
+# Groq chat-model integration used to generate grounded RAG answers.
+langchain-groq
+# Reads PDF files when using the PDF loader notebook.
+pypdf
+# Alternative, faster PDF extraction backend for the PDF loader notebook.
+pymupdf
+# Local persistent vector database option for storing document embeddings.
+chromadb
+# Fast in-memory vector similarity search used by the loader demo notebooks.
+faiss-cpu
+# Creates local semantic embeddings for documents and user questions.
+sentence-transformers
+# HTML parser required by WebBaseLoader to turn web pages into documents.
+beautifulsoup4
+# Python client used by LangChain's Typesense vector-store integration.
+typesense
+# Loads GROQ_API_KEY from a local .env file without hard-coding secrets.
+python-dotenv
+# Optional classical ML utilities for experiments outside the core RAG pipeline.
+scikit-learn

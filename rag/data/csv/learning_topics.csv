@@ -1,0 +1,5 @@
+topic,category,description
+RAG,Generative AI,Retrieval-augmented generation retrieves relevant documents before an LLM writes an answer.
+Embeddings,Vector search,Embeddings convert text into vectors so similar meanings can be found with a similarity search.
+Chunking,Document processing,Chunking divides long documents into smaller passages that fit an embedding model and LLM context.
+Groq,LLM inference,Groq provides fast hosted models that can generate answers from retrieved RAG context.
